@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="output/github-contribution-grid-snake.svg">
-  <img alt="Contribution snake" src="output/github-contribution-grid-snake-dark.svg">
+  <img alt="GitHub contribution grid with snake" src="output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -14,66 +14,55 @@
 
 ## About | نبذة عني
 
-</div>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<div align="right" dir="rtl">
+<br/>
 
 ### يوسف زاهية
 **مهندس برمجيات**
 
 <br/>
 
-| **البرمجيات** |
-|:--|
-| مواقع تجارية وشخصية — React، PHP |
-| تطبيقات موبايل — Android و iOS |
-| تطوير مواقع الشركات وربطها بمنظومة مصرف ليبيا المركزي (CBL) |
-| PostgreSQL · Firebase · REST APIs · Plutu |
+**برمجيات**
+
+- مواقع تجارية وشخصية — React، PHP
+- تطبيقات موبايل — Android و iOS
+- تطوير مواقع الشركات وربطها بمنظومة مصرف ليبيا المركزي (CBL)
+- PostgreSQL · Firebase · REST APIs · Plutu
 
 <br/>
 
-| **الشبكات والبنية التحتية** |
-|:--|
-| تأسيس شبكات فروع مصرفية |
-| Cisco · اتصالات · دعم فني ميداني |
-| تجهيز أقسام الخدمات الإلكترونية |
+**شبكات وبنية تحتية**
 
-</div>
+- تأسيس شبكات فروع مصرفية
+- Cisco · اتصالات · دعم فني ميداني
+- تجهيز أقسام الخدمات الإلكترونية
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-<div align="left">
+---
+
+<br/>
 
 ### Yosef Zahia
 **Software Engineer**
 
 <br/>
 
-| **Software** |
-|:--|
-| Commercial & personal websites — React, PHP |
-| Mobile apps — Android & iOS |
-| Corporate websites integrated with the Central Bank of Libya (CBL) ecosystem |
-| PostgreSQL · Firebase · REST APIs · Plutu |
+**Software**
+
+- Commercial & personal websites — React, PHP
+- Mobile apps — Android & iOS
+- Corporate websites integrated with the Central Bank of Libya (CBL) ecosystem
+- PostgreSQL · Firebase · REST APIs · Plutu
 
 <br/>
 
-| **Networks & Infrastructure** |
-|:--|
-| Banking branch network setup |
-| Cisco · connectivity · on-site support |
-| E-banking department infrastructure |
+**Networks & Infrastructure**
+
+- Banking branch network setup
+- Cisco · connectivity · on-site support
+- E-banking department infrastructure
 
 </div>
-
-</td>
-</tr>
-</table>
 
 ---
 
