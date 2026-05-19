@@ -99,15 +99,27 @@ I build digital systems for businesses and banks — software that delivers, net
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=k69ly&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=k69ly&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=k69ly&theme=default&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k69ly&theme=default&hide_border=true" alt="GitHub Streak"/>
+</picture>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=k69ly&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=39d353&point=bc8cff&area=true&height=260" alt="Activity Graph"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=k69ly&theme=github-dark&hide_border=true&area=true&height=260">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=k69ly&theme=github-light&hide_border=true&area=true&height=260">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=k69ly&theme=github-light&hide_border=true&area=true&height=260" alt="Activity Graph"/>
+</picture>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=k69ly&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=k69ly&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=k69ly&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10">
+  <img src="https://github-profile-trophy.vercel.app/?username=k69ly&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+</picture>
 
 </div>
 
