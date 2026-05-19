@@ -10,56 +10,61 @@
 
 ## About | نبذة عني
 
-### يوسف زاهية · Yosef Zahia
-**مهندس برمجيات · Software Engineer**
+<table>
+<tr>
+<td width="47%" valign="top" align="right">
 
-أعمل بين تطوير البرمجيات (ويب وموبايل) وتجهيز الشبكات والبنية التحتية للقطاع المصرفي.
+<div dir="rtl">
 
-<br/>
-
-**تطوير البرمجيات · Software**
-
-<ul dir="rtl" align="right" style="display:inline-block; text-align:right;">
-<li>مواقع تجارية وشخصية — React، PHP، تجربة مستخدم واضحة</li>
-<li>تطبيقات الموبايل (Android - IOS ) </li>
-<li>مواقع متوافقة مع CBL وتكامل أنظمة مصرف ليبيا المركزي</li>
-<li>PostgreSQL · Firebase · REST APIs · Plutu</li>
-</ul>
+### يوسف زاهية
+**مهندس برمجيات**
 
 <br/>
 
-**الشبكات والبنية التحتية · Networks**
+**برمجيات**
 
-<ul dir="rtl" align="right" style="display:inline-block; text-align:right;">
-<li>تأسيس شبكات فروع مصرفية (مصرف شمال أفريقيا)</li>
-<li>Cisco · اتصالات · دعم فني ميداني</li>
-<li>تجهيز أقسام الخدمات الإلكترونية end-to-end</li>
-</ul>
-
-<br/>
-
----
+- مواقع تجارية وشخصية — React، PHP
+- تطبيقات موبايل — Android و iOS
+- تكامل CBL وأنظمة مصرف ليبيا المركزي
+- PostgreSQL · Firebase · REST APIs · Plutu
 
 <br/>
 
-**Software Development**
+**شبكات وبنية تحتية**
 
-<ul align="left" style="display:inline-block; text-align:left;">
-<li>Commercial & personal websites — React, PHP, clean UX</li>
-<li>Flutter apps (Binyan, sales systems, business tools)</li>
-<li>CBL-compliant banking sites and integrations</li>
-<li>PostgreSQL · Firebase · REST APIs</li>
-</ul>
+- تأسيس فروع مصرفية (مصرف شمال أفريقيا)
+- Cisco · اتصالات · دعم فني ميداني
+- تجهيز أقسام الخدمات الإلكترونية
+
+</div>
+
+</td>
+<td width="6%"></td>
+<td width="47%" valign="top" align="left">
+
+### Yosef Zahia
+**Software Engineer**
+
+<br/>
+
+**Software**
+
+- Commercial & personal websites — React, PHP
+- Mobile apps — Android & iOS
+- CBL integrations & banking platforms
+- PostgreSQL · Firebase · REST APIs · Plutu
 
 <br/>
 
 **Networks & Infrastructure**
 
-<ul align="left" style="display:inline-block; text-align:left;">
-<li>Banking branch network rollout (North Africa Bank)</li>
-<li>Cisco · connectivity · on-site support</li>
-<li>E-banking department setup end-to-end</li>
-</ul>
+- Banking branch rollout (North Africa Bank)
+- Cisco · connectivity · on-site support
+- E-banking department setup
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -135,7 +140,9 @@
 
 <div align="center">
 
-<a href="https://yosef.ly" title="Website"><img src="https://skillicons.dev/icons?i=html" height="48" width="48" alt="Website"/></a>
+<a href="https://yosef.ly" title="Website"><img src="https://cdn.simpleicons.org/safari/0A84FF" height="48" width="48" alt="Website"/></a>
+&nbsp;&nbsp;
+<a href="https://wa.me/218934448886" title="WhatsApp"><img src="https://cdn.simpleicons.org/whatsapp/25D366" height="48" width="48" alt="WhatsApp"/></a>
 &nbsp;&nbsp;
 <a href="mailto:info@yosef.ly" title="Email"><img src="https://skillicons.dev/icons?i=gmail" height="48" width="48" alt="Email"/></a>
 &nbsp;&nbsp;
