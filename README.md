@@ -10,59 +10,54 @@
 
 ---
 
-<div align="center">
-
 ## About | نبذة عني
 
-<br/>
+<table>
+<tr>
+<td width="50%" valign="top" align="right">
 
-### يوسف زاهية
-**مهندس برمجيات**
+<div dir="rtl">
 
-<br/>
+**يوسف زاهية**  
+مهندس برمجيات
 
-**برمجيات**
+أبني أنظمة رقمية للشركات والمصارف — برمجيات تُنجز العمل، وشبكات تبقي الفروع متصلة.
 
-- مواقع تجارية وشخصية — React، PHP
-- تطبيقات موبايل — Android و iOS
-- تطوير مواقع الشركات وربطها بمنظومة مصرف ليبيا المركزي (CBL)
-- PostgreSQL · Firebase · REST APIs · Plutu
+**البرمجيات**  
+• مواقع للشركات والأفراد بتجربة استخدام واضحة  
+• تطبيقات جوال لأنظمة أندرويد وآيفون  
+• مواقع مؤسساتية مربوطة بمنظومة مصرف ليبيا المركزي  
+• قواعد بيانات وخدمات سحابية وربط أنظمة خارجية  
 
-<br/>
-
-**شبكات وبنية تحتية**
-
-- تأسيس شبكات فروع مصرفية
-- Cisco · اتصالات · دعم فني ميداني
-- تجهيز أقسام الخدمات الإلكترونية
-
-<br/>
-
----
-
-<br/>
-
-### Yosef Zahia
-**Software Engineer**
-
-<br/>
-
-**Software**
-
-- Commercial & personal websites — React, PHP
-- Mobile apps — Android & iOS
-- Corporate websites integrated with the Central Bank of Libya (CBL) ecosystem
-- PostgreSQL · Firebase · REST APIs · Plutu
-
-<br/>
-
-**Networks & Infrastructure**
-
-- Banking branch network setup
-- Cisco · connectivity · on-site support
-- E-banking department infrastructure
+**الشبكات**  
+• إنشاء شبكات فروع المصارف من الصفر  
+• بنية سيسكو واتصالات ودعم ميداني  
+• تجهيز مراكز الخدمات الإلكترونية  
 
 </div>
+
+</td>
+<td width="50%" valign="top" align="left">
+
+**Yosef Zahia**  
+Software Engineer
+
+I build digital systems for businesses and banks — software that delivers, networks that stay up.
+
+**Software**  
+• Corporate and personal websites with clean UX  
+• Mobile apps for Android and iOS  
+• Enterprise sites integrated with the Central Bank of Libya ecosystem  
+• Databases, cloud services, and API integrations  
+
+**Networks**  
+• Full banking branch network rollout  
+• Cisco infrastructure, connectivity, and field support  
+• E-banking department setup end to end  
+
+</td>
+</tr>
+</table>
 
 ---
 
