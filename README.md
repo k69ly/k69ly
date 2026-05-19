@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Yosef Zahia"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake" src="output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
 
@@ -10,63 +14,66 @@
 
 ## About | نبذة عني
 
-<table>
-<tr>
-<td width="47%" valign="top" align="right">
+</div>
 
-<div dir="rtl">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<div align="right" dir="rtl">
 
 ### يوسف زاهية
 **مهندس برمجيات**
 
 <br/>
 
-**برمجيات**
-
-- مواقع تجارية وشخصية — React، PHP
-- تطبيقات موبايل — Android و iOS
-- تكامل CBL وأنظمة مصرف ليبيا المركزي
-- PostgreSQL · Firebase · REST APIs · Plutu
+| **البرمجيات** |
+|:--|
+| مواقع تجارية وشخصية — React، PHP |
+| تطبيقات موبايل — Android و iOS |
+| تطوير مواقع الشركات وربطها بمنظومة مصرف ليبيا المركزي (CBL) |
+| PostgreSQL · Firebase · REST APIs · Plutu |
 
 <br/>
 
-**شبكات وبنية تحتية**
-
-- تأسيس فروع مصرفية (مصرف شمال أفريقيا)
-- Cisco · اتصالات · دعم فني ميداني
-- تجهيز أقسام الخدمات الإلكترونية
+| **الشبكات والبنية التحتية** |
+|:--|
+| تأسيس شبكات فروع مصرفية |
+| Cisco · اتصالات · دعم فني ميداني |
+| تجهيز أقسام الخدمات الإلكترونية |
 
 </div>
 
 </td>
-<td width="6%"></td>
-<td width="47%" valign="top" align="left">
+<td width="50%" valign="top">
+
+<div align="left">
 
 ### Yosef Zahia
 **Software Engineer**
 
 <br/>
 
-**Software**
-
-- Commercial & personal websites — React, PHP
-- Mobile apps — Android & iOS
-- CBL integrations & banking platforms
-- PostgreSQL · Firebase · REST APIs · Plutu
+| **Software** |
+|:--|
+| Commercial & personal websites — React, PHP |
+| Mobile apps — Android & iOS |
+| Corporate websites integrated with the Central Bank of Libya (CBL) ecosystem |
+| PostgreSQL · Firebase · REST APIs · Plutu |
 
 <br/>
 
-**Networks & Infrastructure**
+| **Networks & Infrastructure** |
+|:--|
+| Banking branch network setup |
+| Cisco · connectivity · on-site support |
+| E-banking department infrastructure |
 
-- Banking branch rollout (North Africa Bank)
-- Cisco · connectivity · on-site support
-- E-banking department setup
+</div>
 
 </td>
 </tr>
 </table>
-
-</div>
 
 ---
 
@@ -117,20 +124,6 @@
 <br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=k69ly&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## Contributions | المساهمات
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="output/github-contribution-grid-snake.svg">
-  <img alt="Contribution snake" src="output/github-contribution-grid-snake-dark.svg">
-</picture>
 
 </div>
 
