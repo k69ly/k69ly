@@ -1,22 +1,21 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="k69ly banner"/>
+<img src="assets/header.svg" width="100%" alt="Yosef bin Zahia"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=مرحباً،+أنا+k69ly+👋;Full-Stack+%E2%80%A2+Flutter+%E2%80%A2+Banking+Network;Building+secure+web%2C+mobile+%26+network+systems;بناء+أنظمة+ويب+وموبايل+وشبكات+آمنة" alt="Typing intro"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=مرحباً،+أنا+يوسف;Full-Stack+%7C+Flutter+%7C+Banking+Networks;yosef.ly" alt="Typing intro"/>
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=k69ly&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/k69ly)
-[![GitHub followers](https://img.shields.io/github/followers/k69ly?style=for-the-badge&logo=github&color=161b22&labelColor=0d1117&label=Followers)](https://github.com/k69ly?tab=followers)
-![Available](https://img.shields.io/badge/Status-Available%20for%20collaboration-39d353?style=for-the-badge&logo=handshake&logoColor=white)
+[![Profile Views](https://komarev.com/ghpvc/?username=k69ly&color=58a6ff&style=flat-square)](https://github.com/k69ly)
+[![GitHub followers](https://img.shields.io/github/followers/k69ly?style=flat-square&logo=github&label=Followers)](https://github.com/k69ly?tab=followers)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me | نبذة عني
+## About | نبذة
 
 <table>
 <tr>
@@ -24,56 +23,18 @@
 
 <div align="right" dir="rtl">
 
-### 🇸🇦 العربية
+**يوسف بن زاهية** — مهندس برمجيات من ليبيا.
 
-مهندس **Full-Stack** ومطور **Flutter** ومهندس **شبكات بنكية** — أبني حلولاً رقمية آمنة من الواجهة إلى البنية التحتية.
-
-- 🌐 تطبيقات ويب حديثة وسريعة
-- 📱 تطبيقات موبايل متقاطعة المنصات
-- 🔐 شبكات بنكية آمنة (Cisco &amp; enterprise infra)
-- 🚀 شغوف بالتعلم المستمر والمشاريع المفتوحة
+أطوّر مواقع وتطبيقات (Flutter و React)، وأعمل على شبكات وبنية تحتية لقطاع مصرفي: تأسيس فروع، Cisco، وتكامل مع أنظمة مصرف ليبيا المركزي.
 
 </div>
 
 </td>
 <td width="50%" valign="top">
 
-### 🇬🇧 English
+**Yosef bin Zahia** — software engineer from Libya.
 
-**Full-Stack** engineer, **Flutter** developer, and **banking network** specialist — I build secure digital solutions from UI to infrastructure.
-
-- 🌐 Modern, performant web applications
-- 📱 Cross-platform mobile apps with Flutter
-- 🔐 Secure banking-grade network engineering (Cisco)
-- 🚀 Passionate about continuous learning &amp; open collaboration
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🌐 Full-Stack
-تطوير تطبيقات ويب متكاملة  
-*End-to-end web development*
-
-</td>
-<td align="center" width="33%">
-
-### 📱 Mobile
-تطبيقات Flutter احترافية  
-*Production-grade Flutter apps*
-
-</td>
-<td align="center" width="33%">
-
-### 🏦 Banking Network
-شبكات بنكية آمنة وموثوقة  
-*Cisco &amp; enterprise networking*
+I build web apps and mobile projects (Flutter & React), and set up banking branch networks: Cisco, infrastructure, and CBL-related integrations.
 
 </td>
 </tr>
@@ -81,32 +42,28 @@
 
 ---
 
-## 🛠️ Tech Stack | المهارات
+## Skills | المهارات
 
 <div align="center">
 
-### Full-Stack Development
+**Web & Backend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,mysql,git,docker,linux&perline=6" alt="Full-Stack skills"/>
-
-<br/>
-
-### Mobile Development
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,android,firebase&perline=6" alt="Mobile skills"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,postgres,git,docker&perline=5" alt="Web skills"/>
 
 <br/>
 
-### Banking &amp; Network Engineering
+**Mobile**
 
-<img src="https://skillicons.dev/icons?i=linux,bash,python,aws&perline=6" alt="Network skills"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,xcode,android,firebase&perline=5" alt="Mobile skills"/>
 
 <br/>
 
-![Cisco](https://img.shields.io/badge/Cisco-Networking-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Security](https://img.shields.io/badge/Network-Security-FF6B6B?style=for-the-badge&logo=shield&logoColor=white)
-![Monitoring](https://img.shields.io/badge/Infrastructure-Monitoring-39D353?style=for-the-badge&logo=grafana&logoColor=white)
+**Network & Infra**
+
+<img src="https://skillicons.dev/icons?i=linux,bash,python,aws&perline=4" alt="Network skills"/>
+
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
 </div>
 
@@ -114,15 +71,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k69ly&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k69ly&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css" alt="Top Languages" height="160"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=k69ly&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=k69ly&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="160"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics | الإحصائيات
+## GitHub Activity | النشاط
 
 <div align="center">
 
@@ -130,50 +87,40 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=k69ly&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=39d353&point=bc8cff&area=true&area_color=58a6ff&height=280" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=k69ly&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=39d353&point=bc8cff&area=true&height=260" alt="Activity Graph"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=k69ly&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=k69ly&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake | ثعبان المساهمات
+## Contributions | المساهمات
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/k69ly/k69ly/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/k69ly/k69ly/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/k69ly/k69ly/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/k69ly/k69ly/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-<sub>🔄 يتحدّث تلقائياً يومياً عبر GitHub Actions · Updates daily via GitHub Actions</sub>
+<sub>يُحدَّث يومياً عبر GitHub Actions — إن لم يظهر، شغّل workflow «Generate Snake» من تبويب Actions</sub>
 
 </div>
 
 ---
 
-## 💬 Random Dev Quote | اقتباس عشوائي
+## Contact | تواصل
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote"/>
-
-</div>
-
----
-
-## 🤝 Connect With Me | تواصل معي
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-yosef.ly-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white)](http://yosef.ly)
-[![Email](https://img.shields.io/badge/Email-info@yosef.ly-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@yosef.ly)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yosefzahia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yosefzahia)
-[![GitHub](https://img.shields.io/badge/GitHub-k69ly-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/k69ly)
+[![Website](https://img.shields.io/badge/yosef.ly-58A6FF?style=flat-square&logo=google-chrome&logoColor=white)](https://yosef.ly)
+[![Email](https://img.shields.io/badge/info@yosef.ly-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:info@yosef.ly)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yosefzahia)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/k69ly)
 
 </div>
 
@@ -181,12 +128,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,30,24&height=100&section=footer&text=Thanks%20for%20visiting!%20%E2%80%A2%20%D8%B4%D9%83%D8%B1%D8%A7%D9%8B%20%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%AA%D9%83!&fontSize=20&fontColor=fff&animation=twinkling" width="100%"/>
-
-<br/>
-
-⭐️ **From [k69ly](https://github.com/k69ly)** with ❤️
-
-<sub>💡 <i>Code is like humor. When you have to explain it, it's bad.</i> — Martin Fowler</sub>
+<sub>From <a href="https://github.com/k69ly">k69ly</a></sub>
 
 </div>
