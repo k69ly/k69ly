@@ -1,15 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Yosef bin Zahia"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=مرحباً،+أنا+يوسف;Full-Stack+%7C+Flutter+%7C+Banking+Networks;yosef.ly" alt="Typing intro"/>
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=k69ly&color=58a6ff&style=flat-square)](https://github.com/k69ly)
-[![GitHub followers](https://img.shields.io/github/followers/k69ly?style=flat-square&logo=github&label=Followers)](https://github.com/k69ly?tab=followers)
+<img src="assets/header.svg" width="100%" alt="Yosef Zahia"/>
 
 </div>
 
@@ -23,18 +14,22 @@
 
 <div align="right" dir="rtl">
 
-**يوسف بن زاهية** — مهندس برمجيات من ليبيا.
+**يوسف زاهية** — مهندس برمجيات
 
-أطوّر مواقع وتطبيقات (Flutter و React)، وأعمل على شبكات وبنية تحتية لقطاع مصرفي: تأسيس فروع، Cisco، وتكامل مع أنظمة مصرف ليبيا المركزي.
+- مواقع وتطبيقات: React، Flutter، PHP
+- شبكات وبنية تحتية لقطاع مصرفي
+- Cisco، تأسيس فروع، تكامل CBL
 
 </div>
 
 </td>
 <td width="50%" valign="top">
 
-**Yosef bin Zahia** — software engineer from Libya.
+**Yosef Zahia** — software engineer
 
-I build web apps and mobile projects (Flutter & React), and set up banking branch networks: Cisco, infrastructure, and CBL-related integrations.
+- Web and mobile: React, Flutter, PHP
+- Banking branch networks and infrastructure
+- Cisco setup, CBL integrations
 
 </td>
 </tr>
@@ -50,30 +45,25 @@ I build web apps and mobile projects (Flutter & React), and set up banking branc
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,postgres,git,docker&perline=5" alt="Web skills"/>
 
-<br/>
+<br/><br/>
 
 **Mobile**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,xcode,android,firebase&perline=5" alt="Mobile skills"/>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-<br/>
+<br/><br/>
 
 **Network & Infra**
 
-<img src="https://skillicons.dev/icons?i=linux,bash,python,aws&perline=4" alt="Network skills"/>
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k69ly&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css" alt="Top Languages" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=k69ly&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="160"/>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 </div>
 
@@ -102,12 +92,10 @@ I build web apps and mobile projects (Flutter & React), and set up banking branc
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/k69ly/k69ly/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/k69ly/k69ly/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/k69ly/k69ly/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake" src="output/github-contribution-grid-snake-dark.svg">
 </picture>
-
-<sub>يُحدَّث يومياً عبر GitHub Actions — إن لم يظهر، شغّل workflow «Generate Snake» من تبويب Actions</sub>
 
 </div>
 
