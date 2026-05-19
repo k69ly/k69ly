@@ -13,56 +13,53 @@
 ### يوسف زاهية · Yosef Zahia
 **مهندس برمجيات · Software Engineer**
 
+أعمل بين تطوير البرمجيات (ويب وموبايل) وتجهيز الشبكات والبنية التحتية للقطاع المصرفي.
+
 <br/>
 
-<table align="center">
-<tr><td align="center">
+**تطوير البرمجيات · Software**
 
-**تطوير البرمجيات**
-
-<ul dir="rtl" align="right">
-<li>مواقع وتجارب رقمية: React، PHP، واجهات حديثة</li>
-<li>تطبيقات موبايل بـ Flutter (مشاريع مثل بنيان ونظام المبيعات)</li>
+<ul dir="rtl" align="right" style="display:inline-block; text-align:right;">
+<li>مواقع تجارية وشخصية — React، PHP، تجربة مستخدم واضحة</li>
+<li>تطبيقات Flutter (بنيان، نظام مبيعات، أنظمة إدارة)</li>
 <li>مواقع متوافقة مع CBL وتكامل أنظمة مصرف ليبيا المركزي</li>
-<li>قواعد بيانات: PostgreSQL و Firebase</li>
+<li>PostgreSQL · Firebase · REST APIs</li>
 </ul>
 
-</td></tr>
-<tr><td align="center">
+<br/>
 
-**الشبكات والبنية التحتية**
+**الشبكات والبنية التحتية · Networks**
 
-<ul dir="rtl" align="right">
-<li>تأسيس شبكات فروع مصرفية وتجهيز البنية من الصفر</li>
-<li>Cisco، اتصالات، ودعم فني ميداني للفروع</li>
-<li>تجهيز أقسام الخدمات الإلكترونية في قطاع مصرفي</li>
+<ul dir="rtl" align="right" style="display:inline-block; text-align:right;">
+<li>تأسيس شبكات فروع مصرفية (مصرف شمال أفريقيا)</li>
+<li>Cisco · اتصالات · دعم فني ميداني</li>
+<li>تجهيز أقسام الخدمات الإلكترونية end-to-end</li>
 </ul>
 
-</td></tr>
-<tr><td align="center">
+<br/>
+
+---
+
+<br/>
 
 **Software Development**
 
-<ul align="left">
-<li>Web products: React, PHP, modern UI/UX</li>
-<li>Flutter mobile apps (e.g. Binyan app & sales system)</li>
-<li>CBL-compliant banking websites and integrations</li>
-<li>Databases: PostgreSQL & Firebase</li>
+<ul align="left" style="display:inline-block; text-align:left;">
+<li>Commercial & personal websites — React, PHP, clean UX</li>
+<li>Flutter apps (Binyan, sales systems, business tools)</li>
+<li>CBL-compliant banking sites and integrations</li>
+<li>PostgreSQL · Firebase · REST APIs</li>
 </ul>
 
-</td></tr>
-<tr><td align="center">
+<br/>
 
 **Networks & Infrastructure**
 
-<ul align="left">
-<li>Branch network setup for banking institutions</li>
-<li>Cisco, connectivity, and on-site technical support</li>
-<li>E-banking department infrastructure rollout</li>
+<ul align="left" style="display:inline-block; text-align:left;">
+<li>Banking branch network rollout (North Africa Bank)</li>
+<li>Cisco · connectivity · on-site support</li>
+<li>E-banking department setup end-to-end</li>
 </ul>
-
-</td></tr>
-</table>
 
 </div>
 
