@@ -21,9 +21,9 @@
 
 <ul dir="rtl" align="right" style="display:inline-block; text-align:right;">
 <li>مواقع تجارية وشخصية — React، PHP، تجربة مستخدم واضحة</li>
-<li>تطبيقات Flutter (بنيان، نظام مبيعات، أنظمة إدارة)</li>
+<li>تطبيقات الموبايل (Android - IOS ) </li>
 <li>مواقع متوافقة مع CBL وتكامل أنظمة مصرف ليبيا المركزي</li>
-<li>PostgreSQL · Firebase · REST APIs</li>
+<li>PostgreSQL · Firebase · REST APIs · Plutu</li>
 </ul>
 
 <br/>
@@ -77,13 +77,23 @@
 
 **Mobile**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,android,swift,firebase&perline=5" alt="Mobile skills"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,swift,firebase,apple&perline=5" alt="Mobile skills"/>
+
+<br/>
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 
 <br/><br/>
 
 **Network & Infra**
 
-<img src="https://skillicons.dev/icons?i=linux,docker,postgres,bash,cisco,wireshark&perline=6" alt="Network skills"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,postgres,bash&perline=4" alt="Network skills"/>
+
+<br/>
+
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
 </div>
 
@@ -125,8 +135,6 @@
 
 <div align="center">
 
-<a href="https://yosef.ly" title="Website"><img src="https://skillicons.dev/icons?i=chrome" height="48" width="48" alt="Website"/></a>
-&nbsp;&nbsp;
 <a href="mailto:info@yosef.ly" title="Email"><img src="https://skillicons.dev/icons?i=gmail" height="48" width="48" alt="Email"/></a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/yosefzahia" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" height="48" width="48" alt="LinkedIn"/></a>
@@ -135,7 +143,7 @@
 
 <br/><br/>
 
-<a href="https://yosef.ly">yosef.ly</a> · <a href="mailto:info@yosef.ly">info@yosef.ly</a>
+[![Website](https://img.shields.io/badge/yosef.ly-58A6FF?style=flat-square&logo=googlechrome&logoColor=white)](https://yosef.ly)
 
 </div>
 
