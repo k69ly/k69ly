@@ -77,7 +77,7 @@
 
 **Mobile**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,swift,firebase,apple&perline=5" alt="Mobile skills"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&perline=3" alt="Mobile skills"/>
 
 <br/>
 
@@ -135,15 +135,13 @@
 
 <div align="center">
 
+<a href="https://yosef.ly" title="Website"><img src="https://skillicons.dev/icons?i=html" height="48" width="48" alt="Website"/></a>
+&nbsp;&nbsp;
 <a href="mailto:info@yosef.ly" title="Email"><img src="https://skillicons.dev/icons?i=gmail" height="48" width="48" alt="Email"/></a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/yosefzahia" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" height="48" width="48" alt="LinkedIn"/></a>
 &nbsp;&nbsp;
 <a href="https://github.com/k69ly" title="GitHub"><img src="https://skillicons.dev/icons?i=github" height="48" width="48" alt="GitHub"/></a>
-
-<br/><br/>
-
-[![Website](https://img.shields.io/badge/yosef.ly-58A6FF?style=flat-square&logo=googlechrome&logoColor=white)](https://yosef.ly)
 
 </div>
 
