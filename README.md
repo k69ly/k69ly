@@ -6,34 +6,65 @@
 
 ---
 
-## About | نبذة
+<div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## About | نبذة عني
 
-<div align="right" dir="rtl">
+### يوسف زاهية · Yosef Zahia
+**مهندس برمجيات · Software Engineer**
 
-**يوسف زاهية** — مهندس برمجيات
+<br/>
 
-- مواقع وتطبيقات: React، Flutter، PHP
-- شبكات وبنية تحتية لقطاع مصرفي
-- Cisco، تأسيس فروع، تكامل CBL
+<table align="center">
+<tr><td align="center">
+
+**تطوير البرمجيات**
+
+<ul dir="rtl" align="right">
+<li>مواقع وتجارب رقمية: React، PHP، واجهات حديثة</li>
+<li>تطبيقات موبايل بـ Flutter (مشاريع مثل بنيان ونظام المبيعات)</li>
+<li>مواقع متوافقة مع CBL وتكامل أنظمة مصرف ليبيا المركزي</li>
+<li>قواعد بيانات: PostgreSQL و Firebase</li>
+</ul>
+
+</td></tr>
+<tr><td align="center">
+
+**الشبكات والبنية التحتية**
+
+<ul dir="rtl" align="right">
+<li>تأسيس شبكات فروع مصرفية وتجهيز البنية من الصفر</li>
+<li>Cisco، اتصالات، ودعم فني ميداني للفروع</li>
+<li>تجهيز أقسام الخدمات الإلكترونية في قطاع مصرفي</li>
+</ul>
+
+</td></tr>
+<tr><td align="center">
+
+**Software Development**
+
+<ul align="left">
+<li>Web products: React, PHP, modern UI/UX</li>
+<li>Flutter mobile apps (e.g. Binyan app & sales system)</li>
+<li>CBL-compliant banking websites and integrations</li>
+<li>Databases: PostgreSQL & Firebase</li>
+</ul>
+
+</td></tr>
+<tr><td align="center">
+
+**Networks & Infrastructure**
+
+<ul align="left">
+<li>Branch network setup for banking institutions</li>
+<li>Cisco, connectivity, and on-site technical support</li>
+<li>E-banking department infrastructure rollout</li>
+</ul>
+
+</td></tr>
+</table>
 
 </div>
-
-</td>
-<td width="50%" valign="top">
-
-**Yosef Zahia** — software engineer
-
-- Web and mobile: React, Flutter, PHP
-- Banking branch networks and infrastructure
-- Cisco setup, CBL integrations
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -49,21 +80,13 @@
 
 **Mobile**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<img src="https://skillicons.dev/icons?i=flutter,dart,android,swift,firebase&perline=5" alt="Mobile skills"/>
 
 <br/><br/>
 
 **Network & Infra**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=linux,docker,postgres,bash,cisco,wireshark&perline=6" alt="Network skills"/>
 
 </div>
 
@@ -105,10 +128,17 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/yosef.ly-58A6FF?style=flat-square&logo=google-chrome&logoColor=white)](https://yosef.ly)
-[![Email](https://img.shields.io/badge/info@yosef.ly-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:info@yosef.ly)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yosefzahia)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/k69ly)
+<a href="https://yosef.ly" title="Website"><img src="https://skillicons.dev/icons?i=chrome" height="48" width="48" alt="Website"/></a>
+&nbsp;&nbsp;
+<a href="mailto:info@yosef.ly" title="Email"><img src="https://skillicons.dev/icons?i=gmail" height="48" width="48" alt="Email"/></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/yosefzahia" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" height="48" width="48" alt="LinkedIn"/></a>
+&nbsp;&nbsp;
+<a href="https://github.com/k69ly" title="GitHub"><img src="https://skillicons.dev/icons?i=github" height="48" width="48" alt="GitHub"/></a>
+
+<br/><br/>
+
+<a href="https://yosef.ly">yosef.ly</a> · <a href="mailto:info@yosef.ly">info@yosef.ly</a>
 
 </div>
 
