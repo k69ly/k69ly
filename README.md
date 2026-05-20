@@ -10,7 +10,7 @@
 
 ---
 
-## About | نبذة عني
+<h2 align="center">About | نبذة عني</h2>
 
 <table>
 <tr>
@@ -61,7 +61,7 @@ I build digital systems for businesses and banks — software that delivers, net
 
 ---
 
-## Skills | المهارات
+<h2 align="center">Skills | المهارات</h2>
 
 <div dir="ltr">
 
@@ -79,7 +79,7 @@ I build digital systems for businesses and banks — software that delivers, net
 
 ---
 
-## GitHub Activity | النشاط
+<h2 align="center">GitHub Activity | النشاط</h2>
 
 <div align="center">
 
@@ -109,7 +109,7 @@ I build digital systems for businesses and banks — software that delivers, net
 
 ---
 
-## Contact | تواصل
+<h2 align="center">Contact | تواصل</h2>
 
 <div align="center">
 
@@ -125,10 +125,3 @@ I build digital systems for businesses and banks — software that delivers, net
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<sub>From <a href="https://github.com/k69ly">k69ly</a></sub>
-
-</div>
