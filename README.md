@@ -63,39 +63,17 @@ I build digital systems for businesses and banks — software that delivers, net
 
 ## Skills | المهارات
 
-<div align="center">
+<div dir="ltr">
 
-**Web & Backend**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,postgres,git,docker&perline=10" alt="Web skills"/>
-
-<br/><br/>
-
-**Network & Infra**
+**💻 Web & Backend:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img valign="middle" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,postgres,git,docker&perline=10" alt="Web skills"/>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=linux,docker,postgres,bash&perline=4" alt="Network skills"/>
+**⚙️ Network & Infra:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img valign="middle" src="https://skillicons.dev/icons?i=linux,docker,postgres,bash&perline=4" alt="Network skills"/> &nbsp; ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
 <br/>
 
-![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-
-<br/><br/>
-
-**Mobile**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&perline=3" alt="Mobile skills"/>
-
-<br/>
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+**📱 Mobile:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img valign="middle" src="https://skillicons.dev/icons?i=flutter,dart,firebase&perline=3" alt="Mobile skills"/> &nbsp; ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 
 </div>
 
