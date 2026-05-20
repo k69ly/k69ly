@@ -65,29 +65,12 @@ I build digital systems for businesses and banks — software that delivers, net
 
 <div align="center">
 
-**Web & Backend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,postgres,git,docker&perline=5" alt="Web skills"/>
-
-<br/><br/>
-
-**Mobile**
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&perline=3" alt="Mobile skills"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,postgres,git,docker,flutter,dart,firebase,linux,bash&perline=16" alt="Skills"/>
 
 <br/>
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
-
-<br/><br/>
-
-**Network & Infra**
-
-<img src="https://skillicons.dev/icons?i=linux,docker,postgres,bash&perline=4" alt="Network skills"/>
-
-<br/>
-
 ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
