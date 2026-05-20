@@ -65,24 +65,26 @@ I build digital systems for businesses and banks — software that delivers, net
 
 <div align="center">
 
-**البرمجيات · Software**
+**Web & Backend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,postgres,git,docker,flutter,dart,firebase&perline=8" alt="Software skills"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,postgres,git,docker&perline=5" alt="Web skills"/>
+
+<br/><br/>
+
+**Mobile**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&perline=3" alt="Mobile skills"/>
 
 <br/>
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 
-<br/>
+<br/><br/>
 
----
+**Network & Infra**
 
-<br/>
-
-**الشبكات · Networks**
-
-<img src="https://skillicons.dev/icons?i=linux,bash&perline=8" alt="Network skills"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,postgres,bash&perline=4" alt="Network skills"/>
 
 <br/>
 
