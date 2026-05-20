@@ -63,18 +63,15 @@ I build digital systems for businesses and banks — software that delivers, net
 
 ## Skills | المهارات
 
-<table>
-<tr>
-<td width="33%" valign="top" align="center">
+<div align="center">
 
 **Web & Backend**
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,postgres,git,docker&perline=5" alt="Web skills"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,postgres,git,docker&perline=10" alt="Web skills"/>
 
-</td>
-<td width="33%" valign="top" align="center">
+<br/><br/>
 
 **Network & Infra**
 
@@ -87,8 +84,7 @@ I build digital systems for businesses and banks — software that delivers, net
 ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
-</td>
-<td width="33%" valign="top" align="center">
+<br/><br/>
 
 **Mobile**
 
@@ -101,9 +97,7 @@ I build digital systems for businesses and banks — software that delivers, net
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
